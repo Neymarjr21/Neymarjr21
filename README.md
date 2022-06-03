@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Kidist 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack Software Deeloper
+- 🌱 I’m currently learning Full Stack Software Developer at Microverse
